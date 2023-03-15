@@ -1,0 +1,23 @@
+.feu{
+    background-color: black;
+    width: fit-content;
+    padding: 1%;
+}
+.rouge{
+    background-color: red;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
+.orange {
+    background-color: orange;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
+.green {
+    background-color: green;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+}
